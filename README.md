@@ -25,4 +25,4 @@ The primary metric of interest in this A/B test analysis is "Purchase." We will 
 
 ## Analysis Outcome
 
-This A/B testing analysis aims to provide insights into which bidding strategy, "average bidding" or "maximum bidding," is more effective in driving Purchase conversions. The results will inform data-driven decisions for optimizing bidding strategies in future ad campaigns.
+This A/B testing analysis aims to provide insights into which bidding strategy, "average bidding" or "maximum bidding," is more effective in driving Purchase conversions. The results will inform data-driven decisions for optimizing bidding strategies in future.
