@@ -1,4 +1,3 @@
-
 # A/B Testing Analysis for Average Bidding vs. Maximum Bidding
 
 This analysis focuses on comparing the performance of two bidding strategies: "average bidding" and "maximum bidding" in an A/B test scenario. The goal is to determine if the "average bidding" strategy leads to better results than "maximum bidding" based on the key metric of Purchase conversions.
