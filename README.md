@@ -1,6 +1,6 @@
 # A/B Testing Analysis
 
-A/B testing, also known as split testing, is a method of comparing two versions of a webpage or app to determine which one performs better in terms of a specific goal or metric. In this analysis, we perform an A/B test on data related to ad impressions, clicks, purchases, and earnings. We aim to determine if there is a significant difference in the number of products purchased after users click on ads between the control and test groups.
+A/B testing, also known as split testing, is a method of comparing two versions of a webpage or app to determine which one performs better in terms of a specific goal or metric.
 
 ## Data Variables
 
